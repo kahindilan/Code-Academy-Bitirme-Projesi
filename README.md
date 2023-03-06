@@ -1,2 +1,2 @@
 # Code-Academy-Bitirme-Projesi
-Code Academy Bitirme Projem
+Code Academy Bitirme Projem "Sürdürülebilirlikle Kalkın"
